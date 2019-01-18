@@ -1,6 +1,6 @@
 # Quiz-4-7-corrections
 # Quiz 4
-Question 2: The correct answer is age 16. This is correct because the "age" variable is stored as the number 16 and the second age in the parentheses will just register as text
+Question 2: The correct answer is age 976. This is correct because the "age" variable is stored as the number 16 and the second age in the parentheses will lust register as text
 Question 10: The correct answers that I missed are: symbol and null. Null can
 Question 11:  
 ```
@@ -22,3 +22,5 @@ let seatssedan1 = numberOfFriends%seatsSedan
 console.log(${seatsSUV} parents who drive suvs and ${seatssedan} parents who drive sedans are required to transport the numberOfFriends seats sedan friends to the movies)
 }
 ```
+#Quiz 5
+Question 1:
