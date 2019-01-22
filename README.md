@@ -34,9 +34,9 @@ Question 6: The correct answer is D. It has one if statement and if the input do
 Question 7: The correct answers were G & H. You cannot have a semi-colon after the parameter is set. Also for an if statment there has to be a open bracket after the parameters and a closing bracket after the action wished to be completed.
 
 Question 8: The one answer I missed was 
-'''
+```
 let status = (studentGrade < 88) ? "ND" : "HR";
-'''
+```
 This is correct because the first value (ND) is supposed to be assigned for the initial parameters. Then HR is supposed to be the else statement and for this statement, it is true. Both cases are true resulting the function to work.
 # Quiz 6 
 Question 1: The correct answer is A. This is correct because the variables are already assigned a value. Putting these values as the parameters of the function will make the function only operate when the parameters are true. Since it will be true, the function wil divide a/b and will also return the value.
@@ -56,3 +56,17 @@ Question 12: The correct answer will be "4 or undefined will be printed to the c
 Question 15: The correct answer is A ReferenceError will occur on line 10. This is correct because 1 cannot be equal to x. x === 1 is not true because they might have the same value but are not the same operator (variable === number). 
 # Quiz 7
 Question 1: The answer that I missed is
+```
+numbers[3] = 8;
+numbers[4] = 10;
+numbers[5] = 12;
+```
+This is correct because you can add array value to an existing array as long as you declare the array and include the index in brackets.
+
+Question 3: The correct answer is 
+```
+for (let i = 0; i < list.length; i++) {
+    console.log(list[i]);
+}
+```
+This is the correct answer because all the constents in the for statement are correct. It also usses the built in function .length correctly 
