@@ -1,4 +1,4 @@
-# Quiz 4-7-corrections
+# Quiz 4-7 Corrections
 # Quiz 4
 Question 2: The correct answer is age 976. This is correct because the "age" variable is stored as the number 16 and the second age in the parentheses will lust register as text
 
@@ -48,3 +48,11 @@ Question 6: The answer that I added to my response was that the function will no
 Question 8: The answer that I missed was D. This is the correct answer because one of the variables is not defined and when the function is executed, the value will be undefined and will display undefined as well.
 
 Question 9: The correct answer is that the Extra arguements will be ignored. This is correct because 
+
+Question 11: The correct answer is "This is true for variables declared using const and let" . This is correct because the const declaration will always have the same value. The same thing applies to an if statement. The let declaration usually means that the value of the variable will always be equal so the same concept will apply inside that scope.
+
+Question 12: The correct answer will be "4 or undefined will be printed to the console."
+
+Question 15: The correct answer is A ReferenceError will occur on line 10. This is correct because 1 cannot be equal to x. x === 1 is not true because they might have the same value but are not the same operator (variable === number). 
+# Quiz 7
+Question 1: The answer that I missed is
