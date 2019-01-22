@@ -22,7 +22,7 @@ let seatsSedan =
 console.log(`${seatsSUV} parents who drive suvs and ${seatsSedan} parents who drive sedans are required to transport the ${numberOfFriends} friends to the movies`);
 }
 ```
-#Quiz 5
+# Quiz 5
 Question 1: The correct answers are !==, <=, <, >, !=, ==, >=, ===.These are relation operators because they are used in logical statements to determine wheter or not variables or values are equal or different.
 Question 2: The correct answers are !, &&, and ||. These are logical operators because they are used to determine the meaning behind variables and values.
 Question 6: The correct answer is D. It has one if statement and if the input does not match the initial if statement, the if statement will go to the else statements. When the grade is found, the variable:letterGrade gets named to a letter (A, B, C, D, and F)
@@ -32,7 +32,7 @@ Question 8: The one answer I missed was
 let status = (studentGrade < 88) ? "ND" : "HR";
 '''
 This is correct because the first value (ND) is supposed to be assigned for the initial parameters. Then HR is supposed to be the else statement and for this statement, it is true. Both cases are true resulting the function to work.
-#Quiz 6 
+# Quiz 6 
 Question 1: The correct answer is A. This is correct because the variables are already assigned a value. Putting these values as the parameters of the function will make the function only operate when the parameters are true. Since it will be true, the function wil divide a/b and will also return the value.
 Question 3: The answer that I missed is Math.random. This is not a built-in parameter because the number will always be random and will not have consistency on the fucntions to be executed.
 Question 6: The answer that I added to my response was that the function will not be designed to return a value. There is no indication on what the function is supposed to be executed so I made a mistake in selecting this answer.
